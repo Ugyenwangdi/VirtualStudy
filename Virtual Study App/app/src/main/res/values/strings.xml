@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">VS App</string>
+
+
+    <!-- Date Util -->
+    <string name="date_util_term_less">less than</string>
+    <string name="date_util_term_a">a</string>
+    <string name="date_util_term_an">an</string>
+
+    <string name="date_util_unit_second">second</string>
+    <string name="date_util_unit_seconds">seconds</string>
+    <string name="date_util_unit_minute">minute</string>
+    <string name="date_util_unit_minutes">minutes</string>
+    <string name="date_util_unit_hour">hour</string>
+    <string name="date_util_unit_hours">hours</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_month">month</string>
+    <string name="date_util_unit_months">months</string>
+    <string name="date_util_unit_year">year</string>
+    <string name="date_util_unit_years">years</string>
+
+    <string name="date_util_prefix_lt">less than a</string>
+    <string name="date_util_prefix_about">about</string>
+    <string name="date_util_prefix_over">over</string>
+    <string name="date_util_prefix_almost">almost</string>
+
+    <string name="date_util_suffix">ago</string>
+
+    <!--Image Filter-->
+    <string name="activity_title_main">Filters</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">FILTERS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_app1">
+        Effective study groups can help students learn course material in a deeper and more concrete way. Groups that are effective generate positive energy, encourage active participation, and effective learning.<br/><br/>
+    </string>
+    <string name="about_app2">
+        As of today it is seen that various social media apps like WhatsApp, telegram, and Facebook are used to create study forums online and discuss with the friends. But one of the major drawbacks of these apps is that they entail a lot of distraction from other posts and messages.
+        So there is a need of separate app for study discussions.<br/><br/>
+    </string>
+    <string name="about_app3">
+        The virtual study app is created by the students that gather together with the shared objective of helping each other to find the resolution of a problem generated around a specific learning problem. Not only that it also allows student to view their respective timetable and tutors can take attendance online through this app.
+        This will allow student to ask their doubts and help them to involve in studies.<br/><br/>
+    </string>
+    <string name="about_app4">
+        Virtual study enables students to work together not only for their own learning but also for the learning of other students. It will allow students to give support and advice to each other as well as increase the involvement in sharing knowledge and expertise. Virtual study creates a learning structure in which students can study the contents of a subject matter in a better and richer manner that they would do otherwise.
+        Virtual study can be platform to increase level of motivation towards learning as it allows students to share impressions and difficulties or doubts of lectures.<br/><br/>
+    </string>
+    <string name="developed1">
+        Developed By : Tshering Penjor and  Ugyen Wangdi
+
+    </string>
+    <string name="developed2">
+         Design By : Sonam Choki and Kinzang Dorji
+    </string>
+
+
+    <string-array name="labels_array_course">
+        <item>BSc Information Technology</item>
+        <item>BSc Computer Science</item>
+        <item>BA Computer Application</item>
+    </string-array>
+
+    <string-array name="labels_array_year">
+        <item>Third Year</item>
+        <item>Second Year</item>
+        <item>First Year</item>
+    </string-array>
+
+
+
+</resources>

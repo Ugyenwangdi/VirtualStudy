@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632911306637",
+    "project_id": "vs-app-17577",
+    "storage_bucket": "vs-app-17577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632911306637:android:0d42e053cd16aa5d23a7c4",
+        "android_client_info": {
+          "package_name": "com.boilerplate.firestore.virtualstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632911306637-m77g3j4dt27f605l7r6co3ecn6k8qn1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE6DndhDKnWLRkl7usAcvxzKZz03Y4lME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632911306637-m77g3j4dt27f605l7r6co3ecn6k8qn1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
